@@ -12,7 +12,7 @@
 
 - 产品名称：技术分析大师
 - 微信小程序 AppID：`wxb3d6fd4edafe74cf`
-- CloudBase 环境：`cloud1-d5gt0lb2xcd72babe`
+- CloudBase 环境：`<CloudBase 环境 ID>`
 - 本地项目：
   - Python/FAE 项目根目录：`[本机]\Documents\kline-pattern-master`
   - 微信小程序实际目录：`[本机]\WeChatProjects\miniprogram-1`
