@@ -11,7 +11,7 @@
 ### 1. 任务身份与目录
 
 - 产品名称：技术分析大师
-- 微信小程序 AppID：`wxb3d6fd4edafe74cf`
+- 微信小程序 AppID：`<小程序 AppID>`
 - CloudBase 环境：`<CloudBase 环境 ID>`
 - 本地项目：
   - Python/FAE 项目根目录：`[本机]\Documents\kline-pattern-master`
